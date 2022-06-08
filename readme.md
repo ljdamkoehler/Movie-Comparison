@@ -1,1 +1,2 @@
-Add project description here
+CREDIT: I completed this project in a course taught by Stephen Grider.
+This is a web app that compares the stats of two different user-selected movies. Using a movie API users can search for and select two movies. The site then compares the movies using a variety of different metrics. It then generates a webpage displaying the two movies, their stats, and which movie "won" in each category. This project was an amazing learning experince.
